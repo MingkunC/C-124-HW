@@ -1,0 +1,64 @@
+.heading
+{
+    font-size: 23px;
+    width: 99%;
+    margin: 0px;
+    border-radius: 0;
+    border-width: 10px;
+    background-color: rgb(79, 79, 79);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border-color: white;
+    height: 10%;
+}
+
+.note
+{
+    font-size:15px;
+    color: lightgrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 99%;
+    background-color: rgb(79, 79, 79);
+    line-height: 3;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border-width: 10px;
+    border-radius: 0;
+    color: white;
+}
+
+video
+{
+    border: 5px rgb(255, 255, 255);
+    border-style: dashed;
+    border-radius: 0px;
+    margin-right: 125px;
+    margin-left: 125px;
+    margin-bottom: 125px;
+    margin-top: 125px;
+    box-shadow: 15px 15px 15px black;
+}
+
+canvas
+{
+    border: 5px rgb(255, 255, 255);
+    border-radius: 0px;
+    border-style: dashed;
+    width: 500px;
+    height: 500px;
+    margin-right: 125px;
+    margin-left: 125px;
+    margin-bottom: 125px;
+    margin-top: 125px;
+    box-shadow: 15px 15px 15px black;
+    position: 1000, 100;
+}
